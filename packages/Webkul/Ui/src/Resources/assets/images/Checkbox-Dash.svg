@@ -1,11 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
-    <title>Checkbox-Dash</title>
-    <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="Checkbox-Dash" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <rect id="Base" stroke="#0041FF" stroke-width="2" fill="#FFFFFF" x="1" y="1" width="22" height="22" rx="2"></rect>
-        <path d="M6,12 L17.215332,12" id="Path-8" stroke="#0041FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
-    </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" version="1.1" viewBox="0 0 24 24"><title>Checkbox-Dash</title><desc>Created with Sketch.</desc><g id="Checkbox-Dash" fill="none" fill-rule="evenodd" stroke="none" stroke-width="1"><rect id="Base" width="22" height="22" x="1" y="1" fill="#FFF" stroke="#0041FF" stroke-width="2" rx="2"/><path id="Path-8" stroke="#0041FF" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6,12 L17.215332,12"/></g></svg>
